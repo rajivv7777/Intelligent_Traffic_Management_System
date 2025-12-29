@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['------------------------------', '8-28 train - v1 2024-08-28 5-13pm', 'This dataset was exported via roboflow.com on August 28- 2024 at 5-14 PM GMT']
+
+roboflow:
+  workspace: rajiv-fmfoj
+  project: police-car-scjrq-xuwr7
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rajiv-fmfoj/police-car-scjrq-xuwr7/dataset/1

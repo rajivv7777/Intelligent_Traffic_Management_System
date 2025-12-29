@@ -1,0 +1,15 @@
+# YOLO dataset configuration
+
+path: C:\RAJIV\PROJECT\Intelligence Traffic Management System\datasets\emergency_vehicle
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 4
+
+names:
+  0: Ambulance
+  1: Police
+  2: Firebrigade
+  3: Army_vehicle

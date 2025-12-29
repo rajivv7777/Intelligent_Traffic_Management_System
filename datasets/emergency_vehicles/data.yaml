@@ -1,0 +1,13 @@
+train: C:/RAJIV/PROJECT/Intelligence Traffic Management System/datasets/emergency_vehicles/train/images
+val: C:/RAJIV/PROJECT/Intelligence Traffic Management System/datasets/emergency_vehicles/valid/images
+
+test: ../test/images
+nc: 4
+names: ['ambulance', 'fire_truck', 'police_car', 'military_vehicle']
+
+roboflow:
+  workspace: rajiv-fmfoj
+  project: army-vehicle-xa53z-rdifz
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rajiv-fmfoj/army-vehicle-xa53z-rdifz/dataset/1

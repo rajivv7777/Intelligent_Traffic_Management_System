@@ -1,0 +1,545 @@
+2025-04-17 23:09:01.472600 - cat detected with 0.58 confidence
+2025-04-17 23:09:01.735205 - dog detected with 0.41 confidence
+2025-04-17 23:09:02.539729 - cow detected with 0.29 confidence
+2025-04-17 23:09:04.040472 - cat detected with 0.31 confidence
+2025-04-17 23:09:04.277848 - cow detected with 0.32 confidence
+2025-04-17 23:09:04.518078 - dog detected with 0.36 confidence
+2025-04-17 23:09:04.520439 - bear detected with 0.31 confidence
+2025-04-17 23:09:04.752103 - bear detected with 0.37 confidence
+2025-04-17 23:09:04.755293 - bear detected with 0.25 confidence
+2025-04-17 23:09:05.002245 - dog detected with 0.25 confidence
+2025-04-17 23:09:05.937526 - cat detected with 0.45 confidence
+2025-04-17 23:09:06.219861 - cat detected with 0.44 confidence
+2025-04-17 23:09:06.544662 - horse detected with 0.41 confidence
+2025-04-17 23:12:36.118605 - dog detected with 0.31 confidence
+2025-04-17 23:12:36.121978 - dog detected with 0.27 confidence
+2025-04-17 23:12:36.336740 - cat detected with 0.57 confidence
+2025-04-17 23:12:36.534158 - cat detected with 0.28 confidence
+2025-04-17 23:12:36.979358 - cat detected with 0.41 confidence
+2025-04-17 23:12:37.571578 - horse detected with 0.29 confidence
+2025-04-17 23:12:40.524854 - cat detected with 0.33 confidence
+2025-04-17 23:12:41.275916 - dog detected with 0.74 confidence
+2025-04-17 23:12:44.225211 - dog detected with 0.59 confidence
+2025-04-17 23:12:44.436736 - dog detected with 0.53 confidence
+2025-04-17 23:12:44.653991 - dog detected with 0.70 confidence
+2025-04-17 23:12:44.862534 - dog detected with 0.53 confidence
+2025-04-17 23:12:45.077740 - dog detected with 0.60 confidence
+2025-04-17 23:12:45.278348 - dog detected with 0.47 confidence
+2025-04-17 23:12:45.280362 - horse detected with 0.35 confidence
+2025-04-17 23:12:45.477951 - dog detected with 0.58 confidence
+2025-04-17 23:12:46.595443 - dog detected with 0.35 confidence
+2025-04-17 23:12:46.819804 - dog detected with 0.75 confidence
+2025-04-17 23:12:47.018227 - dog detected with 0.42 confidence
+2025-04-17 23:12:47.432126 - dog detected with 0.87 confidence
+2025-04-17 23:12:47.631908 - horse detected with 0.26 confidence
+2025-04-17 23:12:47.820603 - dog detected with 0.63 confidence
+2025-04-17 23:12:48.568024 - dog detected with 0.30 confidence
+2025-04-17 23:12:50.103239 - horse detected with 0.33 confidence
+2025-04-17 23:12:51.488175 - horse detected with 0.26 confidence
+2025-04-17 23:12:54.083173 - horse detected with 0.55 confidence
+2025-04-17 23:12:54.293392 - horse detected with 0.58 confidence
+2025-04-17 23:12:54.495515 - horse detected with 0.67 confidence
+2025-04-17 23:12:54.706298 - horse detected with 0.37 confidence
+2025-04-17 23:12:54.929830 - dog detected with 0.33 confidence
+2025-04-17 23:12:55.549524 - dog detected with 0.42 confidence
+2025-04-17 23:12:55.742986 - dog detected with 0.41 confidence
+2025-04-17 23:12:55.946397 - horse detected with 0.33 confidence
+2025-04-17 23:12:55.949397 - dog detected with 0.29 confidence
+2025-04-17 23:12:56.158408 - horse detected with 0.39 confidence
+2025-04-17 23:12:56.161410 - dog detected with 0.37 confidence
+2025-04-17 23:12:56.371361 - horse detected with 0.65 confidence
+2025-04-17 23:12:56.579750 - horse detected with 0.41 confidence
+2025-04-17 23:12:56.782836 - cat detected with 0.54 confidence
+2025-04-17 23:12:56.988198 - cat detected with 0.35 confidence
+2025-04-17 23:12:57.211386 - cat detected with 0.60 confidence
+2025-04-17 23:12:57.413587 - cat detected with 0.80 confidence
+2025-04-17 23:12:57.621655 - cat detected with 0.80 confidence
+2025-04-17 23:12:58.020634 - cat detected with 0.41 confidence
+2025-04-18 10:38:56.184394 - dog detected with 0.43 confidence
+2025-04-18 10:38:56.894263 - dog detected with 0.31 confidence
+2025-04-18 10:38:57.056903 - dog detected with 0.53 confidence
+2025-04-18 10:38:57.427835 - dog detected with 0.41 confidence
+2025-04-18 10:38:57.606801 - dog detected with 0.29 confidence
+2025-04-18 10:38:57.779573 - dog detected with 0.41 confidence
+2025-04-18 10:38:57.963579 - dog detected with 0.53 confidence
+2025-04-18 10:38:58.138946 - dog detected with 0.33 confidence
+2025-04-18 10:38:58.316659 - dog detected with 0.29 confidence
+2025-04-18 10:38:58.477066 - dog detected with 0.32 confidence
+2025-04-18 10:38:58.662394 - dog detected with 0.54 confidence
+2025-04-18 10:38:58.842890 - dog detected with 0.64 confidence
+2025-04-18 10:38:59.124506 - dog detected with 0.69 confidence
+2025-04-18 10:38:59.370810 - dog detected with 0.46 confidence
+2025-04-18 10:38:59.607791 - dog detected with 0.52 confidence
+2025-04-18 10:38:59.850069 - dog detected with 0.54 confidence
+2025-04-18 10:39:00.112257 - dog detected with 0.65 confidence
+2025-04-18 10:39:00.338155 - dog detected with 0.76 confidence
+2025-04-18 10:39:00.586785 - dog detected with 0.56 confidence
+2025-04-18 10:39:00.847211 - dog detected with 0.58 confidence
+2025-04-18 10:39:01.120717 - dog detected with 0.64 confidence
+2025-04-18 10:39:01.359485 - dog detected with 0.76 confidence
+2025-04-18 10:39:01.578137 - dog detected with 0.78 confidence
+2025-04-18 10:39:01.787937 - dog detected with 0.65 confidence
+2025-04-18 10:39:12.254562 - horse detected with 0.59 confidence
+2025-04-18 10:39:12.598877 - horse detected with 0.34 confidence
+2025-04-18 10:39:13.271647 - horse detected with 0.29 confidence
+2025-04-18 10:39:14.072811 - horse detected with 0.64 confidence
+2025-04-18 10:39:14.235076 - horse detected with 0.79 confidence
+2025-04-18 10:39:14.408131 - horse detected with 0.70 confidence
+2025-04-18 10:39:14.561545 - horse detected with 0.27 confidence
+2025-04-18 10:39:23.917269 - dog detected with 0.49 confidence
+2025-04-18 10:39:42.030163 - dog detected with 0.28 confidence
+2025-04-18 10:39:42.217352 - horse detected with 0.42 confidence
+2025-04-18 10:39:42.219351 - dog detected with 0.27 confidence
+2025-04-18 10:39:42.448432 - horse detected with 0.43 confidence
+2025-04-18 10:39:42.825040 - horse detected with 0.26 confidence
+2025-04-18 10:39:43.009274 - cow detected with 0.28 confidence
+2025-04-18 10:39:43.193341 - horse detected with 0.29 confidence
+2025-04-18 10:39:43.542840 - horse detected with 0.34 confidence
+2025-04-18 10:39:43.707488 - horse detected with 0.27 confidence
+2025-04-18 10:39:43.886344 - horse detected with 0.45 confidence
+2025-04-18 10:39:44.055303 - horse detected with 0.28 confidence
+2025-04-18 10:39:44.251607 - horse detected with 0.29 confidence
+2025-04-18 10:39:44.472210 - horse detected with 0.56 confidence
+2025-04-18 10:39:44.648389 - dog detected with 0.45 confidence
+2025-04-18 10:39:44.804735 - dog detected with 0.56 confidence
+2025-04-18 10:39:44.988095 - dog detected with 0.63 confidence
+2025-04-18 10:39:45.140534 - dog detected with 0.77 confidence
+2025-04-18 10:39:45.306985 - dog detected with 0.76 confidence
+2025-04-18 10:39:45.483255 - dog detected with 0.47 confidence
+2025-04-18 10:39:45.642646 - dog detected with 0.47 confidence
+2025-04-18 10:39:45.822543 - dog detected with 0.45 confidence
+2025-04-18 10:39:45.977343 - horse detected with 0.40 confidence
+2025-04-18 10:39:45.979903 - dog detected with 0.35 confidence
+2025-04-18 10:39:46.358832 - dog detected with 0.68 confidence
+2025-04-18 10:39:46.522127 - dog detected with 0.51 confidence
+2025-04-18 10:39:46.695880 - dog detected with 0.32 confidence
+2025-04-18 10:39:46.871788 - dog detected with 0.36 confidence
+2025-04-18 10:39:47.026277 - horse detected with 0.52 confidence
+2025-04-18 10:39:47.206766 - horse detected with 0.34 confidence
+2025-04-18 10:39:47.208766 - dog detected with 0.32 confidence
+2025-04-18 10:39:47.380525 - dog detected with 0.63 confidence
+2025-04-18 10:39:47.541568 - dog detected with 0.54 confidence
+2025-04-18 10:39:47.716165 - dog detected with 0.70 confidence
+2025-04-18 10:39:47.875142 - dog detected with 0.54 confidence
+2025-04-18 10:39:48.046630 - horse detected with 0.49 confidence
+2025-04-18 10:39:48.225638 - dog detected with 0.56 confidence
+2025-04-18 10:39:48.398045 - dog detected with 0.76 confidence
+2025-04-18 10:39:48.569426 - dog detected with 0.73 confidence
+2025-04-18 10:39:48.749902 - dog detected with 0.80 confidence
+2025-04-18 10:39:48.907135 - dog detected with 0.64 confidence
+2025-04-18 10:40:00.972662 - bird detected with 0.44 confidence
+2025-04-18 10:40:01.147856 - bird detected with 0.84 confidence
+2025-04-18 10:40:01.314914 - bird detected with 0.90 confidence
+2025-04-18 10:40:01.507949 - bird detected with 0.87 confidence
+2025-04-18 10:40:01.664436 - bird detected with 0.88 confidence
+2025-04-18 10:40:01.834398 - bird detected with 0.90 confidence
+2025-04-18 10:40:01.987255 - bird detected with 0.90 confidence
+2025-04-18 10:40:01.989256 - bird detected with 0.39 confidence
+2025-04-18 10:40:02.163763 - bird detected with 0.91 confidence
+2025-04-18 10:40:02.325463 - bird detected with 0.85 confidence
+2025-04-18 10:40:02.505683 - bird detected with 0.84 confidence
+2025-04-18 10:40:33.698118 - cat detected with 0.41 confidence
+2025-04-18 10:41:01.773060 - horse detected with 0.51 confidence
+2025-04-18 10:41:01.957374 - horse detected with 0.32 confidence
+2025-04-18 10:41:02.946704 - cat detected with 0.36 confidence
+2025-04-18 11:24:55.865641 - dog detected with 0.26 confidence
+2025-04-18 11:24:57.523999 - dog detected with 0.30 confidence
+2025-04-18 11:24:57.716571 - dog detected with 0.41 confidence
+2025-04-18 11:24:57.912644 - dog detected with 0.43 confidence
+2025-04-18 11:24:58.090519 - dog detected with 0.36 confidence
+2025-04-18 11:24:58.253863 - dog detected with 0.41 confidence
+2025-04-18 11:24:58.594006 - dog detected with 0.38 confidence
+2025-04-18 11:24:58.776295 - dog detected with 0.28 confidence
+2025-04-18 11:24:58.969780 - dog detected with 0.26 confidence
+2025-04-18 11:25:08.933605 - cat detected with 0.28 confidence
+2025-04-18 11:25:12.232054 - dog detected with 0.68 confidence
+2025-04-18 11:25:12.237459 - dog detected with 0.44 confidence
+2025-04-18 11:25:12.448154 - dog detected with 0.48 confidence
+2025-04-18 11:25:12.632471 - dog detected with 0.48 confidence
+2025-04-18 11:25:13.010810 - dog detected with 0.89 confidence
+2025-04-18 11:25:13.193497 - dog detected with 0.85 confidence
+2025-04-18 11:25:13.356584 - dog detected with 0.88 confidence
+2025-04-18 11:25:13.543009 - dog detected with 0.86 confidence
+2025-04-18 11:25:13.549010 - cat detected with 0.64 confidence
+2025-04-18 11:25:13.712966 - dog detected with 0.89 confidence
+2025-04-18 11:25:13.717968 - dog detected with 0.88 confidence
+2025-04-18 11:25:13.723471 - dog detected with 0.40 confidence
+2025-04-18 11:25:13.920491 - dog detected with 0.85 confidence
+2025-04-18 11:25:13.925000 - cat detected with 0.36 confidence
+2025-04-18 11:25:14.281419 - dog detected with 0.60 confidence
+2025-04-18 11:25:14.482871 - cat detected with 0.39 confidence
+2025-04-18 11:25:14.489436 - dog detected with 0.28 confidence
+2025-04-18 11:25:14.495445 - dog detected with 0.26 confidence
+2025-04-18 11:25:15.445402 - dog detected with 0.28 confidence
+2025-04-18 11:25:15.607369 - dog detected with 0.30 confidence
+2025-04-18 11:25:16.018941 - dog detected with 0.43 confidence
+2025-04-18 11:25:16.350581 - dog detected with 0.25 confidence
+2025-04-18 11:25:16.875626 - dog detected with 0.30 confidence
+2025-04-18 11:25:17.926361 - dog detected with 0.25 confidence
+2025-04-18 11:25:18.595969 - dog detected with 0.38 confidence
+2025-04-18 11:25:18.783763 - dog detected with 0.39 confidence
+2025-04-18 11:25:19.278032 - dog detected with 0.40 confidence
+2025-04-18 11:25:19.819816 - dog detected with 0.35 confidence
+2025-04-18 11:25:20.170796 - dog detected with 0.79 confidence
+2025-04-18 11:25:20.350883 - dog detected with 0.70 confidence
+2025-04-18 11:25:20.896473 - dog detected with 0.33 confidence
+2025-04-18 11:25:21.442172 - dog detected with 0.37 confidence
+2025-04-18 11:25:21.686368 - dog detected with 0.86 confidence
+2025-04-18 11:25:21.854186 - dog detected with 0.61 confidence
+2025-04-18 11:25:22.038645 - dog detected with 0.81 confidence
+2025-04-18 11:25:22.204160 - dog detected with 0.68 confidence
+2025-04-18 11:25:22.409634 - dog detected with 0.61 confidence
+2025-04-18 11:25:22.572984 - dog detected with 0.76 confidence
+2025-04-18 11:25:22.772687 - dog detected with 0.69 confidence
+2025-04-18 11:25:22.934636 - dog detected with 0.74 confidence
+2025-04-18 11:25:23.161290 - dog detected with 0.89 confidence
+2025-04-18 11:25:23.360749 - dog detected with 0.93 confidence
+2025-04-18 11:25:23.561297 - dog detected with 0.85 confidence
+2025-04-18 11:25:23.727446 - dog detected with 0.89 confidence
+2025-04-18 11:25:23.971530 - dog detected with 0.91 confidence
+2025-04-18 11:25:24.249460 - dog detected with 0.89 confidence
+2025-04-18 11:25:24.512162 - dog detected with 0.90 confidence
+2025-04-18 11:25:24.685563 - dog detected with 0.87 confidence
+2025-04-18 11:25:24.911436 - dog detected with 0.89 confidence
+2025-04-18 11:25:25.138671 - dog detected with 0.89 confidence
+2025-04-18 11:25:25.322281 - dog detected with 0.89 confidence
+2025-04-18 11:25:25.508353 - dog detected with 0.93 confidence
+2025-04-18 11:25:25.697991 - dog detected with 0.93 confidence
+2025-04-18 11:25:25.913273 - dog detected with 0.85 confidence
+2025-04-18 11:25:26.189818 - dog detected with 0.83 confidence
+2025-04-18 11:25:26.486021 - dog detected with 0.88 confidence
+2025-04-18 11:25:26.689626 - dog detected with 0.88 confidence
+2025-04-18 11:25:26.914528 - dog detected with 0.91 confidence
+2025-04-18 11:25:27.131932 - dog detected with 0.89 confidence
+2025-04-18 11:25:27.367270 - dog detected with 0.78 confidence
+2025-04-18 11:25:27.586407 - dog detected with 0.86 confidence
+2025-04-18 11:25:27.781628 - dog detected with 0.86 confidence
+2025-04-18 11:25:28.042932 - dog detected with 0.88 confidence
+2025-04-18 11:25:28.295557 - dog detected with 0.85 confidence
+2025-04-18 11:25:28.516681 - dog detected with 0.89 confidence
+2025-04-18 11:25:28.709321 - dog detected with 0.82 confidence
+2025-04-18 11:25:28.944952 - dog detected with 0.89 confidence
+2025-04-18 11:25:29.125130 - dog detected with 0.84 confidence
+2025-04-18 12:24:26.028596 - dog detected with 0.54 confidence
+2025-04-18 12:25:10.387723 - dog detected with 0.26 confidence
+2025-04-18 12:25:10.889331 - dog detected with 0.70 confidence
+2025-04-18 12:25:11.073993 - dog detected with 0.67 confidence
+2025-04-18 12:25:11.253394 - dog detected with 0.77 confidence
+2025-04-18 12:25:11.457549 - dog detected with 0.86 confidence
+2025-04-18 12:25:11.670655 - dog detected with 0.82 confidence
+2025-04-18 12:25:11.853720 - dog detected with 0.89 confidence
+2025-04-18 12:25:12.038986 - dog detected with 0.88 confidence
+2025-04-18 12:25:12.236457 - dog detected with 0.88 confidence
+2025-04-18 12:25:12.399222 - dog detected with 0.80 confidence
+2025-04-18 12:25:12.603514 - dog detected with 0.87 confidence
+2025-04-18 12:25:12.812379 - dog detected with 0.86 confidence
+2025-04-18 12:25:13.065486 - dog detected with 0.87 confidence
+2025-04-18 12:25:13.262029 - dog detected with 0.88 confidence
+2025-04-18 12:25:13.443078 - dog detected with 0.84 confidence
+2025-04-18 12:25:13.628881 - dog detected with 0.86 confidence
+2025-04-18 12:25:14.193169 - dog detected with 0.34 confidence
+2025-04-18 12:25:14.357883 - dog detected with 0.61 confidence
+2025-04-18 12:25:28.539126 - dog detected with 0.59 confidence
+2025-04-18 12:25:28.545126 - dog detected with 0.27 confidence
+2025-04-18 12:25:28.726904 - dog detected with 0.56 confidence
+2025-04-18 12:25:28.731903 - dog detected with 0.46 confidence
+2025-04-18 12:25:28.737904 - dog detected with 0.34 confidence
+2025-04-18 12:25:28.743906 - dog detected with 0.32 confidence
+2025-04-18 12:25:28.957719 - dog detected with 0.65 confidence
+2025-04-18 12:25:28.963720 - dog detected with 0.58 confidence
+2025-04-18 12:25:28.969721 - dog detected with 0.51 confidence
+2025-04-18 12:25:28.977722 - dog detected with 0.33 confidence
+2025-04-18 12:25:28.986722 - sheep detected with 0.32 confidence
+2025-04-18 12:25:29.173612 - dog detected with 0.63 confidence
+2025-04-18 12:25:29.179612 - dog detected with 0.59 confidence
+2025-04-18 12:25:29.184614 - dog detected with 0.56 confidence
+2025-04-18 12:25:29.191613 - dog detected with 0.30 confidence
+2025-04-18 12:25:29.411008 - dog detected with 0.73 confidence
+2025-04-18 12:25:29.417009 - dog detected with 0.71 confidence
+2025-04-18 12:25:29.423010 - dog detected with 0.67 confidence
+2025-04-18 12:25:29.431011 - dog detected with 0.46 confidence
+2025-04-18 12:25:29.437010 - dog detected with 0.35 confidence
+2025-04-18 12:25:29.631292 - dog detected with 0.79 confidence
+2025-04-18 12:25:29.638294 - dog detected with 0.73 confidence
+2025-04-18 12:25:29.644293 - dog detected with 0.72 confidence
+2025-04-18 12:25:29.650294 - dog detected with 0.71 confidence
+2025-04-18 12:25:29.853663 - dog detected with 0.79 confidence
+2025-04-18 12:25:29.859176 - dog detected with 0.70 confidence
+2025-04-18 12:25:29.865177 - dog detected with 0.66 confidence
+2025-04-18 12:25:29.870177 - dog detected with 0.64 confidence
+2025-04-18 12:25:30.075284 - dog detected with 0.77 confidence
+2025-04-18 12:25:30.080282 - dog detected with 0.75 confidence
+2025-04-18 12:25:30.086282 - dog detected with 0.71 confidence
+2025-04-18 12:25:30.092282 - dog detected with 0.61 confidence
+2025-04-18 12:25:30.302276 - dog detected with 0.61 confidence
+2025-04-18 12:25:30.307276 - dog detected with 0.55 confidence
+2025-04-18 12:25:30.313278 - dog detected with 0.48 confidence
+2025-04-18 12:25:30.319278 - dog detected with 0.45 confidence
+2025-04-18 12:25:30.505770 - dog detected with 0.82 confidence
+2025-04-18 12:25:30.511770 - dog detected with 0.78 confidence
+2025-04-18 12:25:30.518771 - dog detected with 0.71 confidence
+2025-04-18 12:25:30.523772 - dog detected with 0.70 confidence
+2025-04-18 12:25:30.740370 - dog detected with 0.79 confidence
+2025-04-18 12:25:30.747372 - dog detected with 0.74 confidence
+2025-04-18 12:25:30.754373 - dog detected with 0.72 confidence
+2025-04-18 12:25:30.763889 - dog detected with 0.56 confidence
+2025-04-18 12:25:30.978522 - dog detected with 0.78 confidence
+2025-04-18 12:25:30.984525 - dog detected with 0.69 confidence
+2025-04-18 12:25:30.991530 - dog detected with 0.59 confidence
+2025-04-18 12:25:30.999523 - dog detected with 0.46 confidence
+2025-04-18 12:25:31.204344 - dog detected with 0.88 confidence
+2025-04-18 12:25:31.210346 - dog detected with 0.80 confidence
+2025-04-18 12:25:31.216346 - dog detected with 0.77 confidence
+2025-04-18 12:25:31.222346 - dog detected with 0.65 confidence
+2025-04-18 12:25:31.419561 - dog detected with 0.84 confidence
+2025-04-18 12:25:31.424562 - dog detected with 0.81 confidence
+2025-04-18 12:25:31.429752 - dog detected with 0.77 confidence
+2025-04-18 12:25:31.435207 - dog detected with 0.63 confidence
+2025-04-18 12:25:31.635108 - dog detected with 0.78 confidence
+2025-04-18 12:25:31.641106 - dog detected with 0.76 confidence
+2025-04-18 12:25:31.647110 - dog detected with 0.49 confidence
+2025-04-18 12:25:31.653110 - dog detected with 0.48 confidence
+2025-04-18 12:25:31.855463 - dog detected with 0.83 confidence
+2025-04-18 12:25:31.860977 - dog detected with 0.73 confidence
+2025-04-18 12:25:31.867080 - dog detected with 0.48 confidence
+2025-04-18 12:25:31.873082 - dog detected with 0.47 confidence
+2025-04-18 12:25:32.125868 - dog detected with 0.74 confidence
+2025-04-18 12:25:32.132407 - dog detected with 0.66 confidence
+2025-04-18 12:25:32.138939 - dog detected with 0.53 confidence
+2025-04-18 12:25:32.145943 - dog detected with 0.42 confidence
+2025-04-18 12:25:32.366878 - dog detected with 0.79 confidence
+2025-04-18 12:25:32.372293 - dog detected with 0.65 confidence
+2025-04-18 12:25:32.377801 - dog detected with 0.54 confidence
+2025-04-18 12:25:32.384312 - dog detected with 0.37 confidence
+2025-04-18 12:25:32.577756 - dog detected with 0.61 confidence
+2025-04-18 12:25:32.583269 - dog detected with 0.57 confidence
+2025-04-18 12:25:32.591933 - dog detected with 0.48 confidence
+2025-04-18 12:25:32.598532 - dog detected with 0.30 confidence
+2025-04-18 12:25:32.796052 - dog detected with 0.75 confidence
+2025-04-18 12:25:32.801564 - dog detected with 0.75 confidence
+2025-04-18 12:25:32.808794 - dog detected with 0.58 confidence
+2025-04-18 12:25:32.814818 - dog detected with 0.40 confidence
+2025-04-18 12:25:32.987834 - dog detected with 0.84 confidence
+2025-04-18 12:25:32.993341 - dog detected with 0.81 confidence
+2025-04-18 12:25:32.998340 - dog detected with 0.66 confidence
+2025-04-18 12:25:33.004884 - dog detected with 0.44 confidence
+2025-04-18 12:25:33.232865 - dog detected with 0.74 confidence
+2025-04-18 12:25:33.238409 - dog detected with 0.72 confidence
+2025-04-18 12:25:33.245413 - dog detected with 0.61 confidence
+2025-04-18 12:25:33.250957 - dog detected with 0.53 confidence
+2025-04-18 12:25:33.456269 - dog detected with 0.55 confidence
+2025-04-18 12:25:33.461770 - dog detected with 0.53 confidence
+2025-04-18 12:25:33.468770 - dog detected with 0.51 confidence
+2025-04-18 12:25:33.474283 - dog detected with 0.50 confidence
+2025-04-18 12:25:33.656471 - dog detected with 0.70 confidence
+2025-04-18 12:25:33.662986 - dog detected with 0.64 confidence
+2025-04-18 12:25:33.669030 - dog detected with 0.63 confidence
+2025-04-18 12:25:33.674578 - dog detected with 0.53 confidence
+2025-04-18 12:25:33.891089 - dog detected with 0.74 confidence
+2025-04-18 12:25:33.896088 - dog detected with 0.70 confidence
+2025-04-18 12:25:33.902637 - dog detected with 0.54 confidence
+2025-04-18 12:25:33.909182 - dog detected with 0.48 confidence
+2025-04-18 12:25:34.101165 - dog detected with 0.70 confidence
+2025-04-18 12:25:34.109167 - dog detected with 0.69 confidence
+2025-04-18 12:25:34.115676 - dog detected with 0.46 confidence
+2025-04-18 12:25:34.122191 - dog detected with 0.45 confidence
+2025-04-18 12:25:34.356932 - dog detected with 0.81 confidence
+2025-04-18 12:25:34.363947 - dog detected with 0.80 confidence
+2025-04-18 12:25:34.370456 - dog detected with 0.57 confidence
+2025-04-18 12:25:34.376632 - dog detected with 0.47 confidence
+2025-04-18 12:25:34.383145 - sheep detected with 0.29 confidence
+2025-04-18 12:25:34.563155 - dog detected with 0.75 confidence
+2025-04-18 12:25:34.568156 - dog detected with 0.69 confidence
+2025-04-18 12:25:34.575726 - dog detected with 0.45 confidence
+2025-04-18 12:25:34.581270 - dog detected with 0.37 confidence
+2025-04-18 12:25:34.796285 - dog detected with 0.79 confidence
+2025-04-18 12:25:34.802286 - dog detected with 0.68 confidence
+2025-04-18 12:25:34.808953 - dog detected with 0.47 confidence
+2025-04-18 12:25:34.815468 - dog detected with 0.44 confidence
+2025-04-18 12:25:35.000276 - dog detected with 0.65 confidence
+2025-04-18 12:25:35.005277 - dog detected with 0.56 confidence
+2025-04-18 12:25:35.011826 - dog detected with 0.50 confidence
+2025-04-18 12:25:35.018337 - dog detected with 0.26 confidence
+2025-04-18 12:25:35.239893 - dog detected with 0.74 confidence
+2025-04-18 12:25:35.247625 - dog detected with 0.70 confidence
+2025-04-18 12:25:35.254191 - dog detected with 0.42 confidence
+2025-04-18 12:25:35.260711 - dog detected with 0.27 confidence
+2025-04-18 12:25:35.647729 - dog detected with 0.55 confidence
+2025-04-18 12:25:35.652234 - dog detected with 0.33 confidence
+2025-04-18 12:25:35.855276 - dog detected with 0.77 confidence
+2025-04-18 12:25:35.860342 - dog detected with 0.70 confidence
+2025-04-18 12:25:35.866583 - dog detected with 0.29 confidence
+2025-04-18 12:25:35.873128 - dog detected with 0.25 confidence
+2025-04-18 12:25:36.064304 - dog detected with 0.39 confidence
+2025-04-18 12:25:36.070429 - dog detected with 0.31 confidence
+2025-04-18 12:25:36.075937 - dog detected with 0.25 confidence
+2025-04-18 12:25:36.282615 - dog detected with 0.68 confidence
+2025-04-18 12:25:36.288157 - dog detected with 0.67 confidence
+2025-04-18 12:25:36.293157 - dog detected with 0.42 confidence
+2025-04-20 22:38:37.419388 - dog detected with 0.57 confidence
+2025-04-20 22:39:18.837479 - dog detected with 0.77 confidence
+2025-04-20 22:39:24.357136 - dog detected with 0.58 confidence
+2025-04-20 22:39:29.590383 - cat detected with 0.26 confidence
+2025-04-20 22:39:38.191554 - cat detected with 0.31 confidence
+2025-04-20 22:39:45.388033 - cat detected with 0.25 confidence
+2025-04-20 22:39:55.841172 - dog detected with 0.26 confidence
+2025-04-20 22:39:59.660443 - dog detected with 0.78 confidence
+2025-04-20 22:40:03.057498 - dog detected with 0.38 confidence
+2025-04-20 22:40:14.414963 - dog detected with 0.58 confidence
+2025-04-20 22:40:20.241484 - dog detected with 0.57 confidence
+2025-04-20 22:40:24.774775 - dog detected with 0.89 confidence
+2025-04-20 22:40:28.129957 - dog detected with 0.33 confidence
+2025-04-20 22:40:34.021828 - dog detected with 0.35 confidence
+2025-04-20 22:40:37.520052 - cat detected with 0.59 confidence
+2025-04-20 22:40:42.031608 - cat detected with 0.63 confidence
+2025-04-20 22:40:50.810941 - elephant detected with 0.48 confidence
+2025-04-20 22:40:54.314035 - cow detected with 0.35 confidence
+2025-04-20 22:41:00.715863 - cat detected with 0.51 confidence
+2025-04-20 23:06:00.449056 - dog detected with 0.65 confidence
+2025-04-20 23:06:07.343180 - dog detected with 0.90 confidence
+2025-04-20 23:06:10.829623 - dog detected with 0.86 confidence
+2025-04-20 23:06:15.537413 - dog detected with 0.40 confidence
+2025-04-20 23:06:19.885551 - dog detected with 0.30 confidence
+2025-04-20 23:06:26.374052 - dog detected with 0.34 confidence
+2025-04-20 23:06:31.156796 - dog detected with 0.50 confidence
+2025-09-30 12:55:26.867907 - cat detected with 0.41 confidence
+2025-09-30 12:55:59.395865 - horse detected with 0.27 confidence
+2025-09-30 12:56:04.057124 - dog detected with 0.27 confidence
+2025-09-30 12:56:09.283594 - dog detected with 0.27 confidence
+2025-09-30 12:56:16.353943 - cat detected with 0.43 confidence
+2025-09-30 12:59:48.607796 - cat detected with 0.32 confidence
+2025-09-30 13:00:25.934135 - dog detected with 0.61 confidence
+2025-09-30 13:00:30.868562 - zebra detected with 0.47 confidence
+2025-09-30 13:00:37.660698 - dog detected with 0.34 confidence
+2025-09-30 13:00:41.393858 - cat detected with 0.29 confidence
+2025-09-30 13:00:59.620338 - dog detected with 0.28 confidence
+2025-09-30 13:10:45.050318 - cat detected with 0.27 confidence
+2025-09-30 13:11:07.749631 - dog detected with 0.43 confidence
+2025-09-30 13:11:12.219767 - dog detected with 0.36 confidence
+2025-09-30 13:11:19.276938 - dog detected with 0.27 confidence
+2025-09-30 13:11:34.564747 - dog detected with 0.57 confidence
+2025-09-30 13:11:38.805873 - dog detected with 0.77 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.65 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.86 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.81 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.83 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.80 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.77 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.85 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.87 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.86 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.91 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.89 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.88 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.82 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.84 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.64 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.66 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.85 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.80 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.79 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.82 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.81 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.82 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.85 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.86 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.87 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.87 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.86 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.84 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.89 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.87 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.87 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.80 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.83 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.85 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.83 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.82 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.84 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.83 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.86 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.86 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.86 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.86 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.86 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.87 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.85 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.87 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.87 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.87 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.86 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.81 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.83 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.87 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.76 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.80 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.84 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.84 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.84 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.81 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.78 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.78 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.81 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.69 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.81 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.79 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.74 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.87 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.75 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.82 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.85 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.66 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.81 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.81 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.87 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.82 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.85 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.70 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.75 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.76 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.47 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.76 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.46 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.66 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.63 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.65 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.47 confidence
+2025-10-06 10:17:17 - dog (ID 9) detected with 0.64 confidence
+2025-10-06 10:17:43 - cat (ID 42) detected with 0.58 confidence
+2025-10-06 10:18:06 - cat (ID 55) detected with 0.77 confidence
+2025-10-06 10:18:11 - dog (ID 56) detected with 0.93 confidence
+2025-10-06 10:18:11 - dog (ID 56) detected with 0.92 confidence
+2025-10-06 10:18:11 - dog (ID 56) detected with 0.90 confidence
+2025-10-06 10:18:16 - dog (ID 59) detected with 0.33 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.58 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.77 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.68 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.13 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.33 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.45 confidence
+2025-10-06 10:18:45 - cat (ID 73) detected with 0.69 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.87 confidence
+2025-10-06 10:18:45 - cat (ID 73) detected with 0.23 confidence
+2025-10-06 10:18:50 - cat (ID 74) detected with 0.33 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.75 confidence
+2025-10-06 10:18:50 - cat (ID 74) detected with 0.22 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.75 confidence
+2025-10-06 10:18:50 - cat (ID 74) detected with 0.11 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.81 confidence
+2025-10-06 10:18:50 - cat (ID 74) detected with 0.23 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.68 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.67 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.80 confidence
+2025-10-06 10:18:50 - cat (ID 74) detected with 0.37 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.74 confidence
+2025-10-06 10:18:50 - cat (ID 74) detected with 0.27 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.72 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.84 confidence
+2025-10-06 10:18:50 - cat (ID 74) detected with 0.20 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.79 confidence
+2025-10-06 10:18:50 - cat (ID 74) detected with 0.21 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.80 confidence
+2025-10-06 10:18:50 - cat (ID 74) detected with 0.23 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.85 confidence
+2025-10-06 10:18:50 - cat (ID 74) detected with 0.29 confidence
+2025-10-06 10:18:38 - cat (ID 66) detected with 0.43 confidence

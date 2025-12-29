@@ -1,0 +1,89 @@
+[ANIMAL] dog, Conf: 0.95, ID: 2, Time: 2025-11-22 20:33:12.429841
+[ANIMAL] cat, Conf: 0.89, ID: 44, Time: 2025-11-24 00:28:49.344037
+[ANIMAL] cat, Conf: 0.87, ID: 60, Time: 2025-11-24 00:29:05.600220
+[ANIMAL] cow, Conf: 0.83, ID: 70, Time: 2025-11-24 00:29:30.440941
+[VEHICLE] army, Conf: 0.83, ID: 72, Time: 2025-11-24 00:29:43.450944
+[ANIMAL] dog, Conf: 0.84, ID: 74, Time: 2025-11-24 00:30:00.030408
+[ANIMAL] horse, Conf: 0.86, ID: 80, Time: 2025-11-24 00:30:11.896213
+[VEHICLE] ambulance, Conf: 0.89, ID: 85, Time: 2025-11-24 00:30:43.847944
+[VEHICLE] army, Conf: 0.88, ID: 86, Time: 2025-11-24 00:30:59.450944
+[ANIMAL] horse, Conf: 0.74, ID: 88, Time: 2025-11-24 00:30:16.151761
+[ANIMAL] dog, Conf: 0.72, ID: 90, Time: 2025-11-24 00:30:36.453040
+[ANIMAL] dog, Conf: 0.77, ID: 115, Time: 2025-11-24 00:31:12.149508
+[ANIMAL] bear, Conf: 0.89, ID: 133, Time: 2025-11-24 00:31:56.189752
+[ANIMAL] zebra, Conf: 0.90, ID: 140, Time: 2025-11-24 00:32:16.053215
+[ANIMAL] zebra, Conf: 0.71, ID: 144, Time: 2025-11-24 00:32:20.463140
+[ANIMAL] sheep, Conf: 0.81, ID: 145, Time: 2025-11-24 00:32:36.949624
+[ANIMAL] cat, Conf: 0.88, ID: 13, Time: 2025-11-28 01:49:27.836530
+[VEHICLE] Ambulance, Conf: 0.83, ID: 1, Time: 2025-11-28 02:00:33.619198
+[VEHICLE] Ambulance, Conf: 0.78, ID: 37, Time: 2025-11-28 02:00:58.833517
+[VEHICLE] Police, Conf: 0.93, ID: 50, Time: 2025-11-28 02:01:16.158316
+[VEHICLE] Ambulance, Conf: 0.73, ID: 65, Time: 2025-11-28 02:01:37.869273
+[VEHICLE] Police, Conf: 0.91, ID: 93, Time: 2025-11-28 02:01:52.670198
+[VEHICLE] Ambulance, Conf: 0.70, ID: 102, Time: 2025-11-28 02:02:07.944769
+[VEHICLE] Ambulance, Conf: 0.73, ID: 3, Time: 2025-11-28 02:05:29.103616
+[ANIMAL] dog, Conf: 0.91, ID: 9, Time: 2025-11-28 02:05:44.907605
+[VEHICLE] Ambulance, Conf: 0.77, ID: 20, Time: 2025-11-28 02:05:49.816760
+[ANIMAL] dog, Conf: 0.70, ID: 24, Time: 2025-11-28 02:06:05.537854
+[VEHICLE] Ambulance, Conf: 0.85, ID: 26, Time: 2025-11-28 02:06:09.037095
+[VEHICLE] Ambulance, Conf: 0.76, ID: 2, Time: 2025-11-28 02:15:38.192130
+[ANIMAL] dog, Conf: 0.79, ID: 1, Time: 2025-11-28 02:16:12.182861
+[VEHICLE] Ambulance, Conf: 0.79, ID: 15, Time: 2025-11-28 02:16:15.570883
+[VEHICLE] Police, Conf: 0.84, ID: 23, Time: 2025-11-28 02:16:34.228183
+[VEHICLE] Ambulance, Conf: 0.76, ID: 34, Time: 2025-11-28 02:17:03.735612
+[VEHICLE] Ambulance, Conf: 0.75, ID: 37, Time: 2025-11-28 02:17:14.449402
+[VEHICLE] Ambulance, Conf: 0.89, ID: 49, Time: 2025-11-28 02:17:29.541848
+[VEHICLE] Ambulance, Conf: 0.82, ID: 54, Time: 2025-11-28 02:17:40.661681
+[VEHICLE] Ambulance, Conf: 0.72, ID: 84, Time: 2025-11-28 02:18:05.557261
+[VEHICLE] Ambulance, Conf: 0.71, ID: 113, Time: 2025-11-28 02:18:28.088065
+[VEHICLE] Ambulance, Conf: 0.73, ID: 121, Time: 2025-11-28 02:18:45.648409
+[ANIMAL] dog, Conf: 0.72, ID: 4, Time: 2025-11-28 02:30:52.166689
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 1, Time: 2025-11-28 02:49:13.587644
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 9, Time: 2025-11-28 02:49:17.063889
+[EMERGENCY] Police, Conf > 0.85, ID: 3, Time: 2025-11-28 02:50:36.683256
+[EMERGENCY] Police, Conf > 0.85, ID: 3, Time: 2025-11-28 02:53:22.788719
+[EMERGENCY] Police, Conf > 0.85, ID: 14, Time: 2025-11-28 02:53:33.064024
+[EMERGENCY] Firebrigade, Conf > 0.85, ID: 42, Time: 2025-11-28 02:54:17.865655
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 1, Time: 2025-11-28 02:56:29.762713
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 2, Time: 2025-11-28 02:56:33.634019
+[EMERGENCY] Police, Conf > 0.85, ID: 11, Time: 2025-11-28 02:56:38.678980
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 25, Time: 2025-11-28 02:56:42.990100
+[EMERGENCY] Police, Conf > 0.85, ID: 3, Time: 2025-11-28 02:58:56.088681
+[EMERGENCY] Police, Conf > 0.85, ID: 4, Time: 2025-11-28 02:59:05.974763
+[ANIMAL] horse, Conf: 0.91, ID: 1, Time: 2025-11-28 02:59:32.690020
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 6, Time: 2025-11-28 02:59:34.441032
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 1, Approach: RIGHT, Time: 2025-11-28 03:04:09.185195
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 2, Approach: LEFT, Time: 2025-11-28 03:07:15.332324
+[EMERGENCY] Police, Conf > 0.85, ID: 27, Approach: LEFT, Time: 2025-11-28 03:07:47.588822
+[EMERGENCY] Police, Conf > 0.85, ID: 58, Approach: LEFT, Time: 2025-11-28 03:07:56.920408
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 59, Approach: LEFT, Time: 2025-11-28 03:08:04.445138
+[ANIMAL] horse, Conf: 0.90, ID: 89, Time: 2025-11-28 03:08:56.640376
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 86, Approach: LEFT, Time: 2025-11-28 03:08:57.026538
+[ANIMAL] horse, Conf: 0.90, ID: 92, Time: 2025-11-28 03:09:00.897012
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 7, Approach: RIGHT, Time: 2025-11-28 10:16:18.598115
+[EMERGENCY] Police, Conf > 0.85, ID: 62, Approach: LEFT, Time: 2025-11-28 10:16:27.673544
+[ANIMAL] horse, Conf: 0.88, ID: 120, Time: 2025-11-28 10:17:00.903140
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 261, Approach: LEFT, Time: 2025-11-28 10:17:20.763772
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 432, Approach: RIGHT, Time: 2025-11-28 10:17:30.710358
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 505, Approach: LEFT, Time: 2025-11-28 10:17:43.065650
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 673, Approach: RIGHT, Time: 2025-11-28 10:18:13.357187
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 2, Approach: RIGHT, Time: 2025-11-28 10:20:19.905560
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 232, Approach: RIGHT, Time: 2025-11-28 10:21:45.656235
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 1, Approach: RIGHT, Time: 2025-11-28 10:22:41.491312
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 1, Approach: RIGHT, Time: 2025-11-28 10:31:23.236180
+[ANIMAL] elephant, Conf: 0.86, ID: 57, Time: 2025-11-28 10:31:23.712609
+[ANIMAL] dog, Conf: 0.91, ID: 62, Time: 2025-11-28 10:31:45.599176
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 132, Approach: LEFT, Time: 2025-11-28 10:31:48.881113
+[ANIMAL] dog, Conf: 0.95, ID: 64, Time: 2025-11-28 10:31:52.307632
+[ANIMAL] cat, Conf: 0.82, ID: 215, Time: 2025-11-28 10:32:20.475757
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 409, Approach: RIGHT, Time: 2025-11-28 10:33:43.718963
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 549, Approach: RIGHT, Time: 2025-11-28 10:34:18.360254
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 593, Approach: RIGHT, Time: 2025-11-28 10:34:31.252147
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 610, Approach: LEFT, Time: 2025-11-28 10:34:35.907721
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 675, Approach: RIGHT, Time: 2025-11-28 10:34:52.674652
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 865, Approach: RIGHT, Time: 2025-11-28 10:35:43.469965
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 777, Approach: RIGHT, Time: 2025-11-28 10:35:47.638528
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 921, Approach: RIGHT, Time: 2025-11-28 10:36:01.549633
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 938, Approach: LEFT, Time: 2025-11-28 10:36:31.109181
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 1032, Approach: LEFT, Time: 2025-11-28 10:36:45.065213
+[EMERGENCY] Ambulance, Conf > 0.85, ID: 1128, Approach: LEFT, Time: 2025-11-28 10:38:09.383991
